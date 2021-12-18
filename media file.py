@@ -1,2 +1,3 @@
 from playsound import playsound
-playsound('audio.mpeg')
+song=input("Enter your file name: ")
+playsound(song)
